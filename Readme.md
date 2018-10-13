@@ -11,9 +11,8 @@
 2. `sudo apt-get update && sudo apt-get install cmake`
 
 ## Drivers - Docs - example project can be found on the NXP website
-[PNEV512R: EXPLORE-NFC - Exclusive from element14](https://www.nxp.com/products/identification-and-security/nfc/nfc-reader-ics/explore-nfc-exclusive-from-element14:PNEV512R)
-
-ps: Make sure to create an account to get access to the software
+nxp-website: https://www.nxp.com/products/identification-and-security/nfc/nfc-reader-ics/explore-nfc-exclusive-from-element14:PNEV512R
+Ps: Make sure to create an account to get access to the software
 
 ## We will use nxppy
-github: [https://github.com/svvitale/nxppy]
+github: https://github.com/svvitale/nxppy
