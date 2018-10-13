@@ -20,5 +20,5 @@ nxp-website: https://www.nxp.com/products/identification-and-security/nfc/nfc-re
 
 ### Possible errors
 1. Can't find module when trying to import in your python file: find the 'setup.py' file in source and run `sudo python setup.py build install`
-2. module 'nxppy' has no attribute 'mifire': run `pip install nxppy` in your folder where your python file is (the one you are working on)
+2. module 'nxppy' has no attribute 'mifare': run `pip install nxppy` in your folder where your python file is (the one you are working on)
 
