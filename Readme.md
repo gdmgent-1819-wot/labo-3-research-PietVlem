@@ -14,3 +14,6 @@
 [PNEV512R: EXPLORE-NFC - Exclusive from element14](https://www.nxp.com/products/identification-and-security/nfc/nfc-reader-ics/explore-nfc-exclusive-from-element14:PNEV512R)
 
 ps: Make sure to create an account to get access to the software
+
+## We will use nxppy
+github: [https://github.com/svvitale/nxppy]
